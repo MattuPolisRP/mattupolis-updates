@@ -1,5 +1,6 @@
 {
-  "version": "1.0.1",
-  "downloadUrl": "https://github.com/MattuPolisRP/mattupolis-updates/releases/latest/download/MattuPolis.Launcher.Setup.1.0.1.exe",
-  "changelog": "Acest Update este de test"
+  "version": "1.0.0",
+  "downloadUrl": "https://github.com/MattuPolisRP/mattupolis-updates/releases/latest/download/mattupolis-update-1.0.0.zip",
+  "changelog": "Mod De Test",
+  "type": "delta"
 }
