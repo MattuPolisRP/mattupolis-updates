@@ -1,6 +1,6 @@
 {
-  "version": "1.1.4",
-  "downloadUrl": "https://github.com/MattuPolisRP/mattupolis-updates/releases/latest/download/mattupolis-update-1.1.4.zip",
-  "changelog": "Acest este un UPDATE de test pentru a verifica daca merg toate\nchestile",
+  "version": "1.1.5",
+  "downloadUrl": "https://github.com/MattuPolisRP/mattupolis-updates/releases/latest/download/mattupolis-update-1.1.5.zip",
+  "changelog": "test",
   "type": "delta"
 }
