@@ -1,9 +1,14 @@
 {
-    "news":  [
-                 {
-                     "date":  "10.05.2026",
-                     "title":  "ts",
-                     "body":  "1"
-                 }
-             ]
+  "news": [
+    {
+      "title": "Update v1.1.86",
+      "body": "Versiunea 1.1.86 a fost publicata.",
+      "date": "04.07.2026"
+    },
+    {
+      "date": "10.05.2026",
+      "title": "ts",
+      "body": "1"
+    }
+  ]
 }
